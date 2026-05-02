@@ -157,3 +157,10 @@ This allows all PyMOL MCP tools (`run_command`, `run_python` and `pymol_get`) wi
 - Always press `Ctrl+C` on the SSH tunnel before closing the terminal
 - Use a different port if stuck: `ss -tlnp | grep <PORT> || echo "FREE"`
 - Stuck ports are released by HPC's sshd automatically after some time
+
+---
+
+## Author
+
+**Name:** Hemant Nagar  
+**Email:** hn533621@ohio.edu
