@@ -137,9 +137,7 @@ By default Claude Code asks for approval every time a PyMOL tool is called. To d
 ```
 OR 
 
-```json
-Run this command
-
+```bash
 echo '{"permissions":{"allow":["Bash(*)","mcp__pymol__*"]}}' > ~/.claude/settings.json
 ```
 
