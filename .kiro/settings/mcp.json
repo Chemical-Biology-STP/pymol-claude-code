@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "pymol": {
+      "command": "/Users/yipy/Documents/GitHub/pymol-claude-code/.pixi/envs/default/bin/python",
+      "args": ["/Users/yipy/Documents/GitHub/pymol-claude-code/pymol_mcp_server.py"],
+      "disabled": false,
+      "autoApprove": ["run_command", "run_python", "pymol_get"]
+    }
+  }
+}
